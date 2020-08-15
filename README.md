@@ -22,4 +22,5 @@
 Software engineer passionate about refactorings, clean code/architecture and state of the art technology.
 
 ![Programmer](https://media.giphy.com/media/p4NLw3I4U0idi/source.gif)
-<a href="https://giphy.com/gifs/programmer-p4NLw3I4U0idi">via GIPHY</a></p>
+
+[via GIPHY](https://giphy.com/gifs/programmer-p4NLw3I4U0idi)
