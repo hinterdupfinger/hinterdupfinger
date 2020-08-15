@@ -8,7 +8,7 @@
 ![](https://img.shields.io/badge/Tool-IntelliJ_IDEA-informational?style=flat-square&logo=intellij-idea&logoColor=white&color=000000)
 ![](https://img.shields.io/badge/Tool-Docker-informational?style=flat-square&logo=docker&logoColor=white&color=2496ed)
 ![](https://img.shields.io/badge/Tool-Kubernetes-informational?style=flat-square&logo=kubernetes&logoColor=white&color=326ce5)
-![](https://img.shields.io/badge/Tool-AWS-informational?style=flat-square&logo=aws&logoColor=white&color=232f3e)
+![](https://img.shields.io/badge/Tool-AWS-informational?style=flat-square&logo=amazon-aws&logoColor=white&color=232f3e)
 ![](https://img.shields.io/badge/Tool-Apache_Kafka-informational?style=flat-square&logo=apache-kafka&logoColor=white&color=000000)
 ![](https://img.shields.io/badge/Dependency-Storybook-informational?style=flat-square&logo=storybook&logoColor=white&color=ff4785)
 ![](https://img.shields.io/badge/Dependency-Jest-informational?style=flat-square&logo=jest&logoColor=white&color=c21325)
